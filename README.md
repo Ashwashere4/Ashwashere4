@@ -1,4 +1,4 @@
-### 🌺 Cadenmf24
+### 🌺 Ashwashere4
 
 
 
@@ -13,7 +13,7 @@
         </a>
 </p> -->
 
-I am a student attending Rochester Institute of Technology pursuing a Bachelor's degree in Software Engineering. All of my coding projects come from me having a "wouldn't it be cool if..." moment. I would like to believe that these projects I do solve real-world problems, but I usually make things simply because I find it cool to do so.
+I am a graduate of Rochester Institute of Technology and have received a Bachelor's of Science in Software Engineering. All of my coding projects come from me having a "wouldn't it be cool if..." moment. I would like to believe that these projects I do solve real-world problems, but I usually make things simply because I find it cool to do so.
 
 ---
 
@@ -36,5 +36,5 @@ I am a student attending Rochester Institute of Technology pursuing a Bachelor's
 
 ### 📊 Stats and Activity
           
-![Cadenmf24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cadenmf24&show_icons=true&theme=algolia)
+![Ashwashere4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwashere4&show_icons=true&theme=algolia)
           
