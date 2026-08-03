@@ -31,10 +31,3 @@ I am a graduate of Rochester Institute of Technology and have received a Bachelo
 <img align= "left" alt = "React" width = "32px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align= "left" alt = "Pytorch" width = "32px" style = "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
 <br />
-
-# 
-
-### 📊 Stats and Activity
-          
-![Ashwashere4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwashere4&show_icons=true&theme=algolia)
-          
