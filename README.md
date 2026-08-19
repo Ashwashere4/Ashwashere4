@@ -13,7 +13,15 @@
         </a>
 </p> -->
 
-I am a graduate of Rochester Institute of Technology and have received a Bachelor's of Science in Software Engineering. All of my coding projects come from me having a "wouldn't it be cool if..." moment. I would like to believe that these projects I do solve real-world problems, but I usually make things simply because I find it cool to do so.
+# About Me
+
+RIT Software Engineering graduate and unapologetic thinker. My coding journey is inspired by passion projects thought of during the latest hours of the night with my friends and a deep seated desire to build things simply because they're cool. 
+
+I draw inspiration from engineers who push boundaries and embrace the absurd all while adding a little chaos into the mix. I channel this inspiration to create anything from full-stack architectures and automation pipelines to entirely unnecessary hardware-software hacks. I enjoy a challenge as much as I enjoy my software bringing smiles to people's faces.
+
+While I'm not coding I am a avid gamer, reader, and connoisseur of horror movie marathons. 
+
+## [LinkedIn](https://www.linkedin.com/in/caden-f-150ba2158/)
 
 ---
 
